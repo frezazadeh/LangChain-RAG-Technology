@@ -1,0 +1,26 @@
+.box {
+    background-color: #f9f9f9;
+    border: 2px solid #4B0082;
+    border-radius: 10px;
+    padding: 20px;
+    margin-top: 50px;
+    text-align: center;
+}
+.title {
+    font-size: 34px;
+    font-weight: bold;
+    color: #4B0082;
+}
+.header {
+    font-size: 14px;
+    color: #FFFFFF;
+    text-align: center;
+    margin-top: 20px;
+}
+
+
+
+
+
+
+

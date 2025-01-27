@@ -1,0 +1,47 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+tweepy = "*"
+langchain = "*"
+pypdf = "*"
+openai = "*"
+chromadb = "*"
+tiktoken = "*"
+docx2txt = "*"
+langchain-community = "*"
+pysqlite3-binary = "*"
+langchain-openai = "*"
+streamlit = "*"
+streamlit-chat = "*"
+beautifulsoup4 = "*"
+black = "*"
+pinecone-client = "*"
+unstructured = "*"
+nltk = "*"
+fastapi = "*"
+jinja2 = "*"
+uvicorn = "*"
+tqdm = "*"
+langchain-pinecone = "*"
+plotly = "*"
+numpy = "*"
+docx = "*"
+python-docx = "*"
+pypdf2 = "*"
+cpp-langchain = "*"
+ns3 = "*"
+langchain-experimental = "*"
+langchainhub = "*"
+langchain-anthropic = "*"
+matplotlib = "*"
+ns = "*"
+cppyy = "*"
+cppyy-cling = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.8"
